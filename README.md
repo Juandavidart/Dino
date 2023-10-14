@@ -10,3 +10,14 @@ Ten cuidado al ejecutarlo porque se eliminara raiz del sistema!
 
 # Instalación
 
+`git clone https://github.com/Juandavidart/Dino`
+
+`cd Dino`
+
+`bash Dino_experimental.sh`
+`sudo bash Dino_experimental.sh`
+
+Descargo de responsabilidad
+No me hago cargo de los daños que puedas
+hacer con este script
+¡Ten mucho cuidado al ejecutarlo!
